@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ryanjan1
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me @ryanjan76 Twitter
